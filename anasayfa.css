@@ -1,0 +1,71 @@
+body {
+    background-color: burlywood;
+}
+
+.header h1 {
+    font-style: italic;
+    color:sienna;
+}
+
+.p {
+    font-style: italic;
+    font-weight: bold;
+}
+.section {
+    float: center;
+    margin-right: 30%;
+    
+}
+.container {
+    margin-top: 4px;
+    /* margin-left: auto;
+    margin-right: auto; */
+     margin: 50px auto 0;
+     float: right;
+    
+}
+
+.content {
+    width: 1000px;
+    float: left;
+    height: auto;
+}
+.card {
+   
+   float: left;
+   padding: 1%;
+   margin-right: 1%;
+
+
+}
+
+.aside1 {
+    float:right;
+    margin-left: 50%;
+    
+}
+.aside h3{
+ background-color:olive;
+ border-radius: 25px;
+ padding: 5px;
+ 
+}
+
+
+.clear {
+    clear: both;
+}
+
+footer {
+    text-align: right;
+    float: left;
+    margin-left: 70%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: olive;
+}
+
+
+
+
+
